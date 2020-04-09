@@ -1,0 +1,13 @@
+---
+# defaults file for iis-admin ad_username
+ad_firstname: shivani
+ad_surname: Reddy
+passwd_user: Domain@1234
+user_required: present
+domain_admin_password: Nodeuser1234
+domain_server_fqdn: node1.domainactive.com
+group_to_add: Administrators
+ad_username: iis-admin
+domain_admin_name: domainactive\nodeuser
+domain_user_name: domainactive\iis-admin
+
